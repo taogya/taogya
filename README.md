@@ -98,7 +98,7 @@
   LTSpice<br>
   Sonnet Lite<br>
 </div>
-<h4 align="left">Design</h4>
+<h4 align="left">Circuit Design</h4>
 ............................<br>
   Supply from Car Battery<br>
   Supply from Dry Battery<br>
