@@ -125,6 +125,7 @@
   Rotary Encoder<br>
   Brushed DC Motor<br>
   Brush-less DC Motor<br>
+  Stepping Motor<br>
 ............................<br>
   Hi-speed transmission line<br>
   FPD-Link III<br>
