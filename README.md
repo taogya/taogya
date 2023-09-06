@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Taogya</h1>
-<h3 align="center">A developer aiming for all-rounder from Japan</h3>
+<h1 align="center">🌾🌾🌾🌾🌾 I'm Taogya 🌾🌾🌾🌾🌾</h1>
+<h3 align="center">Japanese hardware/software/firmware developer.</h3>
 
 <!--
 <h3 align="left">Connect with me:</h3>
@@ -61,6 +61,8 @@
 <h4 align="left">Devops</h4>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a>
 </p>
 
 <h4 align="left">Framework</h4>
@@ -73,6 +75,7 @@
 <p align="left">
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+  <a href="https://m5stack.com/" target="_blank" rel="noreferrer">M5Stack</a>
 </p>
 
 <h4 align="left">OS</h4>
